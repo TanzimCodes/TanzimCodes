@@ -43,17 +43,17 @@
 </table>
 
 <hr/>
-<h3>📜 Certifications </h3>
+
 <h3>📜 Certifications</h3>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
   <div>
-    <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 100%; max-width: 300px; display: block;">
+    <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 100%; max-width: 250px;">
   </div>
   <div>
-    <img src="./certificates/React.png" alt="React Certificate" style="width: 100%; max-width: 300px; display: block;">
+    <img src="./certificates/React.png" alt="React Certificate" style="width: 100%; max-width: 250px;">
   </div>
   <div>
-    <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 100%; max-width: 300px; display: block;">
+    <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 100%; max-width: 250px;">
   </div>
 </div>
 
