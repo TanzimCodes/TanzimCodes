@@ -1,5 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=51631719)
-<!--<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ilmedova&data=followers,repositories,stars,commits&theme=dark"> -->
 ###
 <img style="width:100%" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br/>
 <h2 align="center">
@@ -48,7 +46,7 @@
 <hr/>
 <h3>📜 Certifications </h3>
 <div>
-    <a align=top href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 49%" src="./certificates/python_basic.png"/></a>
+    <p> ![Certification Badge](https://www.hackerrank.com/certificates/e4ba6e7d8ee6) </p>
     <a align=top href="https://www.linkedin.com/learning/certificates/1aa641a3ae5e8d5a2c8592c49fa521e9f62fda75d938f6efb77274a6461ccab5"><img style="width: 49%" src="./certificates/python_professional.png"/></a>
 </div>
 
