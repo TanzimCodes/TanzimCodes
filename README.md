@@ -44,5 +44,16 @@
 
 <hr/>
 <h3>📜 Certifications </h3>
-<img src="./certificates/Javascript.png" alt="Certificate" style="max-width: 100%; display: block;">
+<h3>📜 Certifications</h3>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+  <div>
+    <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 100%; max-width: 300px; display: block;">
+  </div>
+  <div>
+    <img src="./certificates/React.png" alt="React Certificate" style="width: 100%; max-width: 300px; display: block;">
+  </div>
+  <div>
+    <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 100%; max-width: 300px; display: block;">
+  </div>
+</div>
 
