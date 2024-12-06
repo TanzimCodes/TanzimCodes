@@ -44,36 +44,19 @@
 
 <hr/>
 
-<style>
-  .certificates-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    justify-items: center;
-  }
 
-  @media (max-width: 768px) {
-    .certificates-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
+<h3>📜 Certificates</h3>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 150px;">
+    </td>
+    <td>
+      <img src="./certificates/React.png" alt="React Certificate" style="width: 150px;">
+    </td>
+    <td>
+      <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 150px;">
+    </td>
+  </tr>
+</table>
 
-  @media (max-width: 480px) {
-    .certificates-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
-
-<h3>📜 Certifications</h3>
-<div class="certificates-grid">
-  <div>
-    <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 100%; max-width: 180px;">
-  </div>
-  <div>
-    <img src="./certificates/React.png" alt="React Certificate" style="width: 100%; max-width: 180px;">
-  </div>
-  <div>
-    <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 100%; max-width: 180px;">
-  </div>
-</div>
