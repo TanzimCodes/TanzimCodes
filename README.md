@@ -46,7 +46,7 @@
 <hr/>
 <h3>📜 Certifications </h3>
 <div>
-    <p> ![Certification Badge](https://www.hackerrank.com/certificates/e4ba6e7d8ee6) </p>
+    <p> <iframe src="https://example.com/certification" width="600" height="400"></iframe> </p>
     <a align=top href="https://www.linkedin.com/learning/certificates/1aa641a3ae5e8d5a2c8592c49fa521e9f62fda75d938f6efb77274a6461ccab5"><img style="width: 49%" src="./certificates/python_professional.png"/></a>
 </div>
 
