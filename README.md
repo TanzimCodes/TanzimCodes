@@ -5,13 +5,14 @@
 <h2 align="center">
    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="48"> Hello! I'm Tanzim - Full-stack SWE
 </h2>
-</h3> 
+
+<h3>💡 What Drives Me</h3>
 <ul>
-   <li>**Problem Solver**: I thrive on dissecting complex challenges and crafting efficient, impactful solutions.</li>
-   <li>**Lifelong Learner**: Whether it’s the latest tech trends or advanced system designs, I'm always exploring, learning, and improving.</li>
-   <li>**Team Player**: I value collaboration, love open-source contributions, and aim to inspire and be inspired by others in the tech community.</li>
+   <li><b>Problem Solver</b>: I thrive on dissecting complex challenges and crafting efficient, impactful solutions.</li>
+   <li><b>Lifelong Learner</b>: Whether it’s the latest tech trends or advanced system designs, I'm always exploring, learning, and improving.</li>
+   <li><b>Team Player</b>: I value collaboration, love open-source contributions, and aim to inspire and be inspired by others in the tech community.</li>
 </ul>
-<h3>💪 "The only limit to our realization of tomorrow will be our doubts of today."</h3>
+<h3>💪 The only limit to our realization of tomorrow will be our doubts of today.</h3>
 <h3>🌐 Let's Connect</h3>
 <p>I'm always excited to connect with fellow developers, learners, and innovators. Feel free to explore my projects, provide feedback, or just say hi! Here is my: <a href="https://www.linkedin.com/in/tanzim-i/">LinkedIn account</a> Let's innovate together! </p>
 <h3> Briefly this is me 👇 </h3>
@@ -33,7 +34,7 @@
 <table>
   <tr>
     <td valign="top">
-      <a style="text-decoration:none" href="https://leetcode.com/ilmedovamahri/">
+      <a style="text-decoration:none" href="https://leetcode.com/u/RDR2/">
         <img style="width:100%" src="https://leetcard.jacoblin.cool/RDR2?theme=nord&font=Ubuntu&ext=contest"/>
       </a>
     </td>
