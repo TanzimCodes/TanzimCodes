@@ -42,10 +42,7 @@
   </tr>
 </table>
 
-
 <hr/>
 <h3>📜 Certifications </h3>
-<div>
-  ![Certificate](certificate/Javascript.png)
-</div>
+<img src="./certificate/Javascript.png" alt="Certificate" style="max-width: 100%; display: block;">
 
