@@ -44,5 +44,5 @@
 
 <hr/>
 <h3>📜 Certifications </h3>
-<img src="./certificate/Javascript.png" alt="Certificate" style="max-width: 100%; display: block;">
+<img src="./certificates/Javascript.png" alt="Certificate" style="max-width: 100%; display: block;">
 
