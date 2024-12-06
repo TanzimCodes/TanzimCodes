@@ -49,13 +49,13 @@
 <table style="width: 100%; text-align: center;">
   <tr>
     <td>
-      <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 150px;">
+      <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 200px;">
     </td>
     <td>
-      <img src="./certificates/React.png" alt="React Certificate" style="width: 150px;">
+      <img src="./certificates/React.png" alt="React Certificate" style="width: 200px;">
     </td>
     <td>
-      <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 150px;">
+      <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 200px;">
     </td>
   </tr>
 </table>
