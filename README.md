@@ -68,12 +68,12 @@
 <h3>📜 Certifications</h3>
 <div class="certificates-grid">
   <div>
-    <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 100%; max-width: 250px;">
+    <img src="./certificates/Javascript.png" alt="Javascript Certificate" style="width: 100%; max-width: 180px;">
   </div>
   <div>
-    <img src="./certificates/React.png" alt="React Certificate" style="width: 100%; max-width: 250px;">
+    <img src="./certificates/React.png" alt="React Certificate" style="width: 100%; max-width: 180px;">
   </div>
   <div>
-    <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 100%; max-width: 250px;">
+    <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 100%; max-width: 180px;">
   </div>
 </div>
