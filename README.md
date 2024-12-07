@@ -58,5 +58,11 @@
       <img src="./certificates/Node.png" alt="Node.js Certificate" style="width: 200px;">
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="./certificates/Algo.png" alt="Algo.js Certificate" style="width: 200px;">
+    </td>
+  </tr>
 </table>
 
